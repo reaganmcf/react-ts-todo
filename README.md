@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React / Typescript Sample Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align='center'>
+  <img height=500 src="./assets/demo.gif" />
+</p>
 
 ## Available Scripts
 
